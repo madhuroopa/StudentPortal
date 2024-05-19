@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|c:\\users\\madhu\\desktop\\seattleuniversity\\interview preperation\\c#_dotnet\\studentportal\\studentportal.web\\studentportal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8751F469-B9D4-4A9F-A414-C15A8F5C0859}|StudentPortal.Web\\StudentPortal.Web.csproj|solutionrelative:studentportal.web\\studentportal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T23:04:36.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:57:46.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Student\\List.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:53:04.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:20:41.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "StudentPortal.Web\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:08:00.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAYwEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:07:15.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:39:50.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Program.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:38:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentPortal.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:35:06.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentPortal.Web",
+              "DocumentMoniker": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\StudentPortal.Web.csproj",
+              "RelativeDocumentMoniker": "StudentPortal.Web\\StudentPortal.Web.csproj",
+              "ToolTip": "C:\\Users\\madhu\\Desktop\\SeattleUniversity\\Interview preperation\\C#_DOTNET\\StudentPortal\\StudentPortal.Web\\StudentPortal.Web.csproj",
+              "RelativeToolTip": "StudentPortal.Web\\StudentPortal.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T21:34:27.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
