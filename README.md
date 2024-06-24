@@ -83,15 +83,23 @@ Entity Framework (EF) is an open-source object-relational mapper (ORM) for .NET 
 - **Migrations**: A way to keep the database schema in sync with the data models. EF migrations are used to create and update the database schema.
 - **LINQ**: Language Integrated Query (LINQ) is used to write queries against the DbSet properties.
 
-### Example Usage:
+### Website Screeshots
 
-```csharp
-public class ApplicationDbContext : DbContext
-{
-    public DbSet<Student> Students { get; set; }
-    
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
-        : base(options)
-    {
-    }
-}
+#### Adding Student
+![image](https://github.com/madhuroopa/StudentPortal/assets/22576343/c2be924f-6eec-43d8-ba36-f7bd15996dda)
+
+#### Editing Student 
+![image](https://github.com/madhuroopa/StudentPortal/assets/22576343/480fd035-bda5-4d23-a307-4a3a40b844c1)
+
+
+#### Students list 
+![image](https://github.com/madhuroopa/StudentPortal/assets/22576343/496b568b-0a9f-4e9e-a063-2d4ac3df6ecd)
+
+#### Delete Student- press the delete button 
+
+![image](https://github.com/madhuroopa/StudentPortal/assets/22576343/9aa5422d-abd7-4a07-8ee7-6f3daf899928)
+
+![image](https://github.com/madhuroopa/StudentPortal/assets/22576343/ad7e786d-c3c0-46b2-a9b5-0580d781675b)
+
+
+
